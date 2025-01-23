@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.col-xl-10 col-lg-12 col-md-9{
+	background-color: green !important ;
+}
+
+.bg-gradient-primary{
+	background-color: green !important;
+}
